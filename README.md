@@ -1,8 +1,5 @@
 ### Oi, meu nome é Antonio Augusto, desenvolvedor web👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
 <div align="center">
   <a href="https://github.com/Antonio1711">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Antonio1711&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
